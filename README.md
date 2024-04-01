@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Arnav Agarwal, a passionate data scientist with a knack for deriving insights from complex datasets. I thrive on turning raw data into actionable intelligence and love tackling real-world problems through innovative analytics solutions.
+I'm Arnav Agarwal, a passionate data science professional with a knack for deriving insights from complex datasets. I thrive on turning raw data into actionable intelligence and love tackling real-world problems through innovative analytics solutions.
 
 -- 🔬 My expertise lies in machine learning, statistical analysis, and data visualization. Whether it's building predictive models or uncovering patterns in large datasets, I'm always eager to dive deep into the data and extract meaningful insights.
 
