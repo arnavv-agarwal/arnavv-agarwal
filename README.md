@@ -12,7 +12,7 @@ I'm Arnav Agarwal, a passionate data scientist with a knack for deriving insight
 
 -- 📈 Let's connect and explore the fascinating world of data together! Feel free to reach out for collaborations, discussions, or just to geek out about data science.
 
--- 📚 Cuurently Reading: [When McKinsey Comes To Town](https://www.harvard.com/book/when_mckinsey_comes_to_town/) , [Link Text](URL) , [Link Text](URL), [Link Text](URL)
+-- 📚 Cuurently Reading: [When McKinsey Comes To Town](https://www.harvard.com/book/when_mckinsey_comes_to_town/) , [Meditations - Marcus Aurelius](https://www.goodreads.com/book/show/30659.Meditations) , [An Introduction To Statistical Learning](https://www.statlearning.com/), [Ace The Data Science Interview](https://www.acethedatascienceinterview.com/)
 
 <!--
 **arnavv-agarwal/arnavv-agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
