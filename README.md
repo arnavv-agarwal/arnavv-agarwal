@@ -12,7 +12,7 @@ I'm Arnav Agarwal, a passionate data science professional with a knack for deriv
 
 -- 📈 Let's connect and explore the fascinating world of data together! Feel free to reach out for collaborations, discussions, or just to geek out about data science.
 
--- 📚 Currently Reading: [No Lonher Human](https://www.goodreads.com/book/show/194746.No_Longer_Human) , [The Setting Sun](https://www.goodreads.com/book/show/194740.The_Setting_Sun)
+-- 📚 Currently Reading: [No Longer Human](https://www.goodreads.com/book/show/194746.No_Longer_Human) , [The Setting Sun](https://www.goodreads.com/book/show/194740.The_Setting_Sun)
 <!--
 **arnavv-agarwal/arnavv-agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
